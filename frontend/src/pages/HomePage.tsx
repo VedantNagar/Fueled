@@ -19,7 +19,7 @@ const HomePage = () => {
                                     <li>Parties</li>
                                     <li>Ceremonies</li>
                                     <li>Functions</li>
-                                    <li aria-hidden="true">And many mores</li>
+                                    <li aria-hidden="true">And many more</li>
                                 </ul>
                             </span>
                         </div>
@@ -33,7 +33,7 @@ const HomePage = () => {
             >
                 <button className="text-white border rounded-md px-4 hover:scale-105 duration-150 font-normal py-2 flex items-center gap-1">
                     Login
-                    <CiLogin className="text-2xl"/>
+                    <CiLogin className="text-2xl" />
                 </button>
             </Link>
         </div>
